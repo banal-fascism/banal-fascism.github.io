@@ -4,7 +4,7 @@
 
 layout: home
 ---
-# CFP
+## CFP
 
 We are delighted to invite submissions for an edited volume tentatively titled “Banal Fascism Online: Weaponizing the ‘Everyday’ for Extreme Ends,” under contract with the Routledge series, [Studies in Fascism and the Far Right](https://www.routledge.com/Routledge-Studies-in-Fascism-and-the-Far-Right/book-series/FFR#). 
 
