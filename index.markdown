@@ -18,7 +18,7 @@ As with all socio-political spaces, the digital has been weaponized by those who
 
 The objective of this volume is to cultivate a novel and timely lens through which to research, conceptualize, and understand fascism and its place in today’s political culture. It allows space for contributors to explore fascism as it exists in the digital world, outside the rigid boundaries of historically-recognized fascist states. In today’s world, the digital seeps into every avenue of the political and social, and thus offers a useful framing for analyzing the inherent banality of fascism as it exists in Western states. Perhaps most importantly, this volume offers an opportunity for a diverse set of researchers to help shape a new conceptual framework as it is actively being developed.
 
-## QUESTIONS THIS EDITED VOLUME WILL ANSWER:
+### QUESTIONS THIS EDITED VOLUME WILL ANSWER:
 - What are the banal, the mundane, the micro, and the everyday aspects of fascism in Western democracies? 
 - Who are the influencers and what are the platforms responsible for mainstreaming extremist views to an expanding political audience? 
 - How have specific communities been targeted by fascists in online spaces, and how have the targets shifted in the past 5, 10, 15 years?
@@ -28,7 +28,7 @@ The objective of this volume is to cultivate a novel and timely lens through whi
 - Which platforms offer the most comprehensive and effective opportunities for anti-democratic political strategizing? 
 - What are the strategies and collective care tactics available to those seeking to combat contemporary forms of fascist harm?
 
-## POSSIBLE TOPICS INCLUDE:
+### POSSIBLE TOPICS INCLUDE:
 - Banal fascism before the Internet
 - The history of banal fascism and white supremacy online
 - Fascist influencers and their leveraging of platform affordances
@@ -49,14 +49,14 @@ The objective of this volume is to cultivate a novel and timely lens through whi
 
 Please note that our conceptualization of banal fascism is being crafted through a Western lens by Western scholars and, to date, has only been applied to Western case studies. While we imagine this framework will be applicable in many national contexts down the line, we are limiting the current volume to Western democracies presently experiencing an uptick in mainstreamed fascist thinking and politics. We made this decision based on our regional expertise and to ensure thematic cohesiveness among chapters. However, we hope this volume will establish the building blocks for banal fascism as a concept that can then be applied to other regions in a future edition. If you have interest in a non-Western edition, please reach out to the corresponding editor.
 
-## SUBMISSION GUIDELINES:
+### SUBMISSION GUIDELINES:
 - Please send extended abstracts of no more than 2,000 words by March 31, 2023. 
 - Abstracts should include a working title, brief introduction, purpose of the paper, theoretical framework(s), method(s) and data, contribution, and/or expected results. 
 - Files do not need to be blinded, but please send in either Word or PDF file format. 
 - Include [a] short author bio(s) with affiliation and preferred contact information at the end of the file (does not count toward word count).
 - All files and questions should be sent to the corresponding editor, Meredith L. Pruden, at mpruden@kennesaw.edu.
 
-## ANTICIPATED TIMELINE:
+### ANTICIPATED TIMELINE:
 - Extended abstracts are due by March 31, 2023. 
 - Co-editors Meghan Conroy, Ayse Lokmanoglu, Meredith L. Pruden, and Hanah Stiverson anticipate notifying submitters of decisions by April 30, 2023. 
 - The deadline for accepted contributors to submit full chapter drafts will be July 31, 2023.   
