@@ -54,7 +54,7 @@ Please note that our conceptualization of banal fascism is being crafted through
 - Abstracts should include a working title, brief introduction, purpose of the paper, theoretical framework(s), method(s) and data, contribution, and/or expected results. 
 - Files do not need to be blinded, but please send in either Word or PDF file format. 
 - Include [a] short author bio(s) with affiliation and preferred contact information at the end of the file (does not count toward word count).
-- All files and questions should be sent to the corresponding editor, Meredith L. Pruden, at mpruden@kennesaw.edu.
+- All files and questions should be sent to the corresponding editor, Meredith L. Pruden, at [mpruden@kennesaw.edu](mailto:mpruden@kennesaw.edu) or Hanah Stiverson at [hanahsti@umich.edu](mailto:hanahsti@umich.edu).
 
 ### ANTICIPATED TIMELINE:
 - Extended abstracts are due by March 31, 2023. 
